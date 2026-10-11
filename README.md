@@ -3,7 +3,7 @@
 그림을 보고 느낀 점(작품, 작가, 연도, 별점, 감상)을 기록하는 SPA입니다.
 등록 / 조회 / 수정 / 삭제(CRUD)를 지원하고, 페이지가 바뀔 때 화면이 "스르륵" 전환됩니다.
 
-- 배포 URL: (배포 후 여기에 적기)
+- 배포 URL: https://reactsupabase.vercel.app
 - GitHub: https://github.com/KANGSIK-SEO/reactsupabase
 
 ## 기술 스택
@@ -14,7 +14,7 @@
 | 빌드 도구 | Vite |
 | 라우팅 | React Router 7 |
 | 백엔드(DB) | Supabase (PostgreSQL) |
-| 배포 | Vercel 또는 Netlify |
+| 배포 | Vercel |
 
 ## 실행 방법
 
